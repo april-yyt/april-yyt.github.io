@@ -1,10 +1,6 @@
-/**
-*	Ober - CV Resume Template (HTML)
-*	Version: 1.0
-*	Author: beshleyua
-*	Author URL: http://themeforest.net/user/beshleyua
-*	Copyright © Ober by beshleyua. All Rights Reserved.
-**/
+/* 
+	Resume Website 
+*/
 
 ( function( $ ) {
 	'use strict';
