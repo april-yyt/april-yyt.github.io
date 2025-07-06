@@ -2038,7 +2038,7 @@ body.light-skin .header.sticky .navbar.default:before {
 	margin-top: 0;
 	margin-bottom: 40px;
 	font-family: "Sorts Mill Goudy";
-	font-size: 138px;
+	font-size: 80px;
 	line-height: 1;
 	color: #FFF;
 	font-weight: 400;
@@ -2198,7 +2198,7 @@ body.light-skin .header.sticky .navbar.default:before {
 
 .hero-started .title {
 	font-family: "Sorts Mill Goudy";
-	font-size: 138px;
+	font-size: 80px;
 	line-height: 0.9;
 	color: #FFF;
 	font-weight: 400;
@@ -4267,7 +4267,7 @@ h5.comment-box__details {
 		display: none;
 	}
 	.m-titles .m-title, .h-titles .h-title {
-		font-size: 100px;
+		font-size: 60px;
 	}
 	.numbers-items {
 		margin: 15px 0;
@@ -4613,7 +4613,7 @@ h5.comment-box__details {
 		margin: 20px 0;
 	}
 	.m-titles .m-title, .h-titles .h-title {
-		font-size: 50px;
+		font-size: 40px;
 	}
 	.m-titles .m-title, .h-titles .h-title {
 		margin-bottom: 20px;
@@ -4681,7 +4681,7 @@ h5.comment-box__details {
     font-size: 22px;
 	}
 	.hero-started .title {
-		font-size: 60px;
+		font-size: 45px;
 	}
 	.hero-started .description {
 		margin-left: 35px;
